@@ -94,13 +94,7 @@
 										</header>
 									</article>
 								</div>
-								<div class="col-4 col-12-mobile">     
-                                    <article class="item">
-										<a href="3d_printer.html" class="image fit"><img src="images/pic09.jpg" alt="" /></a>
-										<header>
-											<h3>Creating a 3D printer</h3>
-										</header>
-									</article>
+								<div class="col-4 col-12-mobile">
 									
 								</div>
 								<div class="col-4 col-12-mobile">
